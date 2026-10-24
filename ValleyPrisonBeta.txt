@@ -1,1 +1,1 @@
-v1.6 bug fixes will be published today. 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kolmahi057-pixel/KolHub/main/main.txt"))()
