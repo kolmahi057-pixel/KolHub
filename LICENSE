@@ -18,7 +18,7 @@ Without prior written permission from the copyright holder, users are prohibited
 
 
 
-Redistributing, republishing, or publicly sharing copies of the source code outside the permissions granted by GitHub's platform terms.
+Redistributing, republishing, or publicly sharing modified versions of the source code.
 
 
 Claiming the software or any part of it as their own original work.
@@ -35,13 +35,19 @@ Selling, sublicensing, or commercially distributing the software or its source c
 
 
 
-3. GitHub Platform Permissions
+3. GitHub Platform and GitHub User Content Permissions
+
+
+Users are permitted to share and distribute the original, unmodified source code through GitHub's githubusercontent.com infrastructure, provided that the source code remains completely unchanged and is shared without additional content, modifications, or additions.
+
+
+This permission does not extend to modified versions, derivative works, or independent redistribution outside the scope expressly permitted by this section.
 
 
 Nothing in this license is intended to restrict actions that GitHub expressly permits under its platform terms, including viewing or forking a public repository through GitHub.
 
 
-Such platform permissions do not grant users the right to independently redistribute, republish, commercially exploit, or claim ownership of the software or its source code.
+Such platform permissions do not grant users ownership of the software or additional redistribution rights beyond those expressly granted under this license.
 
 
 4. Ownership
